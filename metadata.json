@@ -1,0 +1,8 @@
+{
+  "name": "ClerkBot AI",
+  "description": "A world-class AI meeting assistant that transcribes, summarizes, and identifies action items from your professional conversations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
